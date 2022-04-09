@@ -14,7 +14,7 @@
                 "packageWeight": 11,
                 "packageLength": 12,
                 "packageWidth": 13,
-                "packageHeight": 15
+                "packageHeight": 15,
                 "frame_color":"Blue",
 		"eyewear_size": "S"
                                         
@@ -26,7 +26,7 @@
                 "packageWeight": 14,
                 "packageLength": 15,
                 "packageWidth": 16,
-                "packageHeight": 17
+                "packageHeight": 17,
                 "skuName" :"xyz",
           	"frame_color":"Red",
 		"eyewear_size": "S"
@@ -38,7 +38,7 @@
                 "packageWeight": 14,
                 "packageLength": 15,
                 "packageWidth": 16,
-                "packageHeight": 17
+                "packageHeight": 17,
                 "frame_color":"Yellow",
 		"eyewear_size": "S"
             }
