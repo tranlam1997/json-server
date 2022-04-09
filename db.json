@@ -1,1 +1,52 @@
-
+[
+    {
+        "setelItemId": "testvariants123",
+        "primaryCategory": 13589,
+        "attributes": {
+            "name": "test variants 1",
+            "description": "test variants 1"
+        },
+        "skus": [
+            {
+                "sellerSku": "testvariantsku1",
+                "price": 30000,
+                "quantity": 1043,
+                "packageWeight": 11,
+                "packageLength": 12,
+                "packageWidth": 13,
+                "packageHeight": 15
+                "frame_color":"Blue",
+		"eyewear_size": "S"
+                                        
+            },
+            {
+                "sellerSku": "testvariantsku2",
+                "price": 25000,
+                "quantity": 365,
+                "packageWeight": 14,
+                "packageLength": 15,
+                "packageWidth": 16,
+                "packageHeight": 17
+                "skuName" :"xyz",
+          	"frame_color":"Red",
+		"eyewear_size": "S"
+            },
+             {
+                "sellerSku": "testvariantsku3",
+                "price": 20000,
+                "quantity": 365,
+                "packageWeight": 14,
+                "packageLength": 15,
+                "packageWidth": 16,
+                "packageHeight": 17
+                "frame_color":"Yellow",
+		"eyewear_size": "S"
+            }
+        ],
+        "images": [
+            "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__480.jpg"
+        ],
+        "type": "COMPOSITE",
+        "multipleVariations": "ON"
+    }
+]
